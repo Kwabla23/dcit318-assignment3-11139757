@@ -1,0 +1,5 @@
+101,Alice Smith,84
+102,Bob Johnson,72
+103,Chris Parker,66
+104,Dana White,58
+105,Edna Miles,47
