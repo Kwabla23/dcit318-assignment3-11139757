@@ -1,0 +1,57 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DCIT318_Assignment3_11139757", "DCIT318_Assignment3_11139757", "{990F1982-08D8-A119-8BED-A1325A586AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question1_Finance", "DCIT318_Assignment3_11139757\FinanceManagementSystem\Question1_Finance.csproj", "{917E9B7F-77DD-5E3A-DEC5-C06FEF5B6042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question4_Grading", "DCIT318_Assignment3_11139757\GradingSystem\Question4_Grading.csproj", "{5EEBFECD-558C-1594-7DC4-1BB012082690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question2_HealthSystem", "DCIT318_Assignment3_11139757\HealthCareSystem\Question2_HealthSystem.csproj", "{7A13F53A-4DC0-A233-BCA4-EDB71E886EFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question5_InventoryLogger", "DCIT318_Assignment3_11139757\InventoryLoggerSystem\Question5_InventoryLogger.csproj", "{E90DA4E4-406A-8D14-33B7-FF0B687372C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question3_Warehouse", "DCIT318_Assignment3_11139757\WarehouseInventoryManagementSystem\Question3_Warehouse.csproj", "{2482138A-4AA8-D314-6CFE-C09AF5A1257F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{917E9B7F-77DD-5E3A-DEC5-C06FEF5B6042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917E9B7F-77DD-5E3A-DEC5-C06FEF5B6042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917E9B7F-77DD-5E3A-DEC5-C06FEF5B6042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917E9B7F-77DD-5E3A-DEC5-C06FEF5B6042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEBFECD-558C-1594-7DC4-1BB012082690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEBFECD-558C-1594-7DC4-1BB012082690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEBFECD-558C-1594-7DC4-1BB012082690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEBFECD-558C-1594-7DC4-1BB012082690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A13F53A-4DC0-A233-BCA4-EDB71E886EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A13F53A-4DC0-A233-BCA4-EDB71E886EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A13F53A-4DC0-A233-BCA4-EDB71E886EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A13F53A-4DC0-A233-BCA4-EDB71E886EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90DA4E4-406A-8D14-33B7-FF0B687372C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90DA4E4-406A-8D14-33B7-FF0B687372C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90DA4E4-406A-8D14-33B7-FF0B687372C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90DA4E4-406A-8D14-33B7-FF0B687372C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2482138A-4AA8-D314-6CFE-C09AF5A1257F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2482138A-4AA8-D314-6CFE-C09AF5A1257F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2482138A-4AA8-D314-6CFE-C09AF5A1257F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2482138A-4AA8-D314-6CFE-C09AF5A1257F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{917E9B7F-77DD-5E3A-DEC5-C06FEF5B6042} = {990F1982-08D8-A119-8BED-A1325A586AFA}
+		{5EEBFECD-558C-1594-7DC4-1BB012082690} = {990F1982-08D8-A119-8BED-A1325A586AFA}
+		{7A13F53A-4DC0-A233-BCA4-EDB71E886EFC} = {990F1982-08D8-A119-8BED-A1325A586AFA}
+		{E90DA4E4-406A-8D14-33B7-FF0B687372C8} = {990F1982-08D8-A119-8BED-A1325A586AFA}
+		{2482138A-4AA8-D314-6CFE-C09AF5A1257F} = {990F1982-08D8-A119-8BED-A1325A586AFA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC09357D-7D4B-4DD9-A10F-AEBFAF247128}
+	EndGlobalSection
+EndGlobal
